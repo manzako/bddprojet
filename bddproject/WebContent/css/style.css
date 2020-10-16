@@ -1,0 +1,19 @@
+#bloc {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-column-gap: 1px;
+}
+
+#first {
+	color:white;
+}
+
+.commune {
+	background-color: #0069b3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 5px;
+	color: white;
+	font-family: 'hobeaux-rococeaux-background', Helvetica;
+}
